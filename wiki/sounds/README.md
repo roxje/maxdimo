@@ -1,1 +1,1 @@
-Items in this folder are for Devius Ex Machina, NOT the other projects in this repo. I mean, you can still check those out though if you want.
+Items in this folder are, somewhat confusingly, for Devius Ex Machina and NOT the other projects in this repo. I mean, you can still check those out though if you want. If you came here from the website, you can safely ignore anything outside of this folder. If you have no idea what I'm talking about, here's a cool website all about it: https://devius-ex-machina.tiddlyhost.com/
